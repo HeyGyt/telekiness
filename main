@@ -1,3 +1,7 @@
+-- Q & E - bring closer and further
+-- R - Roates Block
+-- T - Tilts Block
+-- Y - Throws Block
 local function a(b, c)
     local d = getfenv(c)
     local e =
